@@ -1,0 +1,17 @@
+"D:\iar\arm\bin\armproc.dll" 
+
+"D:\iar\arm\bin\armjlink2.dll" 
+
+"D:\1.intelligent vehicle\3、MK60母板VE2（配套VG核心板）\LQ_MK60_VE2母板资料\2. 参考例程\新版例程20190517\11.龙邱K60 TFT1.8例程\11.龙邱K60 TFT1.8例程\MK60DN\Exe\c.out" 
+
+--plugin="D:\iar\arm\bin\armbat.dll" 
+
+--device_macro="D:\iar\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\iar\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\iar\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+

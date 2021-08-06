@@ -1,0 +1,17 @@
+"D:\iar\arm\bin\armproc.dll" 
+
+"D:\iar\arm\bin\armjlink2.dll" 
+
+"D:\gitee_store\telecontrol\MK60FX\Exe\c.out" 
+
+--plugin="D:\iar\arm\bin\armbat.dll" 
+
+--device_macro="D:\iar\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\iar\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\iar\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
